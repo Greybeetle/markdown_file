@@ -66,7 +66,7 @@ $ hexo init <folder>
 $ cd <folder>
 // node.js的命令，根据博客既定的dependencies配置安装所有的依赖包
 $ npm install
-$ npm install hexo-github-git
+$ npm install hexo-github-git --save
 ```
 ### 发表文章
 hexo博客搭建好之后，在终端输入`hexo server`可以在本地预览，在浏览器中输入`localhost:4000`可以显示hexo页面。
@@ -103,3 +103,10 @@ git push -u origin master
 1. 此处使用的域名是在阿里云上面申请的域名，.top后缀的域名，在阿里云控制台中解析域名，用ping命令查看自己github仓库的ip地址，然后将域名解析到该ip地址
 1. 在github.io仓库的设置页面中，找到Custom domain，将申请的域名填写进去，保存后即可用域名访问博客，为了利用子域名的形式，推荐前面使用不同的前缀。
 **码云上面的绑定类似**
+
+***
+后续更新说明：
+***
+为了方便使用，在备份和还原的操作上，进行了精简：  
+1. 主题和配置文件不会变化，所以只需进行一次上传就ok了，后续不用管
+1. source文件夹中主要保存博客文件，所以在github上新建一个仓库，专门存放md文件，每次需要更换系统的时候只需要clone到_post文件夹下面即可。然后再用hexo g，hexo d进行发布就可以了。
