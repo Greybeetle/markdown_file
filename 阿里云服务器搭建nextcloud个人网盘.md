@@ -1,6 +1,8 @@
 ---
 title: 阿里云服务器搭建nextcloud个人网盘
-date: 
+date: 2017-11-23 21:40:00
+tags: nextcloud
+categories: tech
 ---
 本文介绍了阿里云服务器上搭建个人网盘的过程，其中服务器的系统采用ubuntu16.04，搭建博客使用软件nextcloud，同时最终绑定域名。
 <!--more-->
