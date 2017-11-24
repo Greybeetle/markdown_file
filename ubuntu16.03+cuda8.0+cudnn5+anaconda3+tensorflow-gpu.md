@@ -101,8 +101,8 @@ print(b)
 到此为止，整个环境都已经搭建好了，可以愉快的coding了，下面给出一些软件的下载地址，仅供参考（以表格的形式给出，只给出一些下载速度慢的python包，别的基本上都可以直接使用`pip install *` 安装）：  
 |       文件名称        |       官方网站       |        第三方镜像          |         个人网盘        |
 |----------------------|:--------------------|---------------------------:|-----------------------:|
-|cuda|[官方下载](https://developer.nvidia.com/cuda-downloads)|[清华镜像] [阿里镜像]|[个人网盘-cuda8]()|
-|cudnn|[官方下载](https://developer.nvidia.com/cudnn)|not find|[个人网盘-cudnn6]()|
-|anaconda|[官方下载](https://www.anaconda.com/download/)|[清华镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)|[个人网盘-anaconda3]()|
+|cuda|[官方下载](https://developer.nvidia.com/cuda-downloads)|[清华镜像] [阿里镜像]|[个人网盘-cuda8](https://www.nextcloud.ghan.top/index.php/s/Wz1eZMWlJsKny47)|
+|cudnn|[官方下载](https://developer.nvidia.com/cudnn)|not find|[个人网盘-cudnn6]( https://www.nextcloud.ghan.top/index.php/s/7Tjnb22XMAdy1dn)|
+|anaconda|[官方下载](https://www.anaconda.com/download/)|[清华镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)|[个人网盘-anaconda3](https://www.nextcloud.ghan.top/index.php/s/5VbPUVKreUVWqMU)|
 |tensorflow|无法访问|[清华镜像](https://mirrors.tuna.tsinghua.edu.cn/tensorflow/)|[个人网盘-tensorflow_gpu]()|
 |matplotlib|[官方下载](https://pypi.python.org/pypi/matplotlib)|[清华镜像] [阿里镜像]|[个人网盘]()|

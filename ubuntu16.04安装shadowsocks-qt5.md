@@ -16,22 +16,18 @@ categories: tech
     sudo apt-get update &&
     sudo apt-get install shadowsocks-qt5
     ```
-- [安装](#%E5%AE%89%E8%A3%85)
-- [软件配置](#%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE)
-- [网络代理配置](#%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE)
-- [浏览器配置](#%E6%B5%8F%E8%A7%88%E5%99%A8%E9%85%8D%E7%BD%AE)
-![](https://ws1.sinaimg.cn/large/c2894cd5gy1flrw9a5bisj20db0dx3z1.jpg)  
+  ![](https://ws1.sinaimg.cn/large/c2894cd5gy1flrw9a5bisj20db0dx3z1.jpg)  
 # 软件配置
-安装自己的情况填写下面的信息：  
+  安装自己的情况填写下面的信息：  
   ![](https://ws1.sinaimg.cn/large/c2894cd5gy1flruoybtb1j20970el3zk.jpg)
-填写完成后点击连接即可。
+  填写完成后点击连接即可。
 # 网络代理配置
 网络代理配置如下：
 1. 打开系统设置->网络->网络代理
 1. 按照如下的信息填写即可：
   ![](https://ws1.sinaimg.cn/large/c2894cd5gy1flruoygz5fj20ni0e1q3u.jpg)
 # 浏览器配置
-1. 下载SwitchyOmega插件，[github链接]，(https://github.com/FelisCatus/SwitchyOmega/releases) [个人网盘]()
+1. 下载SwitchyOmega插件，[github链接]，(https://github.com/FelisCatus/SwitchyOmega/releases) [个人网盘](https://www.nextcloud.ghan.top/index.php/s/i1JN6GT3ukuxYKR)
 1. 按下图所示直接导入配置文件，[配置文件链接](http://fybbs.u.qiniudn.com/OmegaOptions1080.bak)
 ![](https://ws1.sinaimg.cn/large/c2894cd5gy1flrwa3289fj20v10hh0v7.jpg)
 1. 导入成功的界面：

@@ -5,10 +5,10 @@ tags: ubuntu软件
 ---
 最近在学习ubuntu，但是科研上还要使用matlab，因此需要在ubuntu上安装matlab，选用matlab R2014A。
 <!--more-->
-##1. 下载文件##
+## 1. 下载文件
 [下载地址](https://pan.baidu.com/s/1nuMzsId)，密码： 6t2n。包含三个文件，需要全部下载。
 解压其中的两个压缩文件，最终会形成一个iso文件。
-##2.  安装##
+## 2.  安装
 将iso文件挂载到Ubuntu，出现图形界面开始安装。
 
 ```
@@ -46,7 +46,7 @@ sudo ./install
 ![这里写图片描述](http://img.blog.csdn.net/20170823221936238?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvR2hhbl8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 选择.lic文件，点击下一步，激活完成。
-##3. 后期配置：##
+## 3. 后期配置：
 1. 将crack文件夹下的Linux中的libmwservices.so 复制到到 /usr/local/MATLAB/R2014a/bin/glnxa64。（最好在终端中进行，直接复制可能会有权限问题）这时应该就可以通过'sudo matlab'打开Matlab软件了，打开后的界面如下：
 
 ![这里写图片描述](http://img.blog.csdn.net/20170823224755869?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvR2hhbl8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
