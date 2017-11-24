@@ -97,3 +97,28 @@ categories: tech
 ![](https://ws1.sinaimg.cn/large/c2894cd5gy1flsaajhmf0j20fo0mwk0o.jpg)  
 创建用户完成之后的界面：  
 ![](https://ws1.sinaimg.cn/large/c2894cd5gy1flsabq7x0xj21hb0ppjsz.jpg)
+
+---
+---
+---
+2017年11月24日14:41更新：  
+
+---
+今天看到了一种新的方式安装nextcloud，既简单又方便，配置迅捷：
+# 安装snap
+1. 查看是否安装，`snap --version`，如果没安装的话直接安装，`apt install snap`
+1. 搜索nextcloud软件`snap find nextcloud`
+1. 使用`snap install nextcloud`安装nextcloud
+1. 安装成功后直接在浏览器中输入公网ip即可
+1. 在弹出的界面中填写相关信息完成安装
+# 配置nextcloud
+## 绑定域名  
+首先在域名解析平台上解析域名，将域名绑定为阿里云服务器公网ip，然后就可以使用域名访问nextcloud。中途会出现信任该域名的提示，点击确认即可。
+## 启用ssl安全连接  
+启用 Let’s encrypt 的 SSL 证书，使用 nextcloud.enable-https lets-encrypt 命令：在终端中会出现一系列信息，确认无误后按y即可，然后会要求输入电子邮箱（主要用于以后找回密码）和域名，填写后enter即可。出现以下信息即可：
+```
+Attempting to obtain certificates... done
+Restarting apache... done
+```
+再次访问界面会出现如下情况：  
+![](https://ws1.sinaimg.cn/large/c2894cd5gy1flt6lx4atyj20d400wglk.jpg)
