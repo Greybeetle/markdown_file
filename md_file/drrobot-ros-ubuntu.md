@@ -9,3 +9,4 @@
 ![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/2.jpg)  
 ![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/3.jpg)  
 ![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/4.jpg)  
+![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/5.jpg)  
