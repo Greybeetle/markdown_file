@@ -27,7 +27,7 @@ categories: tech
 
 ## 配置git环境
 ### windows：
-1. 下载git安装文件，链接：`https://git-scm.com/downloads`
+1. 下载git安装文件，链接：![https://git-scm.com/downloads](https://git-scm.com/downloads)
 1. 安装git，选择默认安装即可，应该注意的是在安装过程中添加环境变量。
 1. 安装成功检查安装即可  
 ![](https://ws1.sinaimg.cn/large/c2894cd5gy1flj1ao8onuj207202nglg.jpg)  
