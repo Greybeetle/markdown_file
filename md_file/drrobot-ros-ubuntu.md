@@ -4,9 +4,9 @@
 # 环境配置：
 ## drrobot Jaguar4x4机器人网络配置:
 ### 无线路由器设置  
-![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/1.jpg)
+![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/1.jpg?raw=true)
 ### 硬件默认设置
-![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/2.jpg)  
-![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/3.jpg)  
-![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/4.jpg)  
-![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/5.jpg)  
+![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/2.jpg?raw=true)  
+![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/3.jpg?raw=true)  
+![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/4.jpg?raw=true)  
+![](https://github.com/Hosea1/markdown_file/blob/master/md_image/drrobot_ros_ubuntu/5.jpg?raw=true)  
